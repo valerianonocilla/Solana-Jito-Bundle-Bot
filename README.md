@@ -1,5 +1,7 @@
 # Solana Self Jito Bundle Bot
 
+## New update, much faster and more efficient. Generate each purchase with a different amount to simulate as much as possible and go unnoticed.
+
 Fastest script for solana to deploy & snipe from 27 different wallets in ms from launch using JITO and on-chain program. 
 
 Bundle Create Pool & Snipe SPL Token in the same block with JITO
